@@ -1,0 +1,9 @@
+c:\users\stefon\documents\visual studio 2015\Projects\EDI HL Sort\EDI HL Sort\bin\Release\EDI HL Sort.exe
+c:\users\stefon\documents\visual studio 2015\Projects\EDI HL Sort\EDI HL Sort\bin\Release\EDI HL Sort.pdb
+c:\users\stefon\documents\visual studio 2015\Projects\EDI HL Sort\EDI HL Sort\obj\Release\EDI HL Sort.exe
+c:\users\stefon\documents\visual studio 2015\Projects\EDI HL Sort\EDI HL Sort\obj\Release\EDI HL Sort.pdb
+C:\Users\Stefon\documents\visual studio 2015\Projects\EDI HL Sort\EDI HL Sort\obj\Release\EDI HL Sort.csprojResolveAssemblyReference.cache
+C:\Users\Stefon\Documents\Visual Studio 2015\Projects\EDI HL Sort - Auto\EDI HL Sort\bin\Release\EDI HL Sort.exe
+C:\Users\Stefon\Documents\Visual Studio 2015\Projects\EDI HL Sort - Auto\EDI HL Sort\bin\Release\EDI HL Sort.pdb
+C:\Users\Stefon\Documents\Visual Studio 2015\Projects\EDI HL Sort - Auto\EDI HL Sort\obj\Release\EDI HL Sort.exe
+C:\Users\Stefon\Documents\Visual Studio 2015\Projects\EDI HL Sort - Auto\EDI HL Sort\obj\Release\EDI HL Sort.pdb
